@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Projeto Game</string>
+    <string name="button_name">PLAY</string>
 </resources>
